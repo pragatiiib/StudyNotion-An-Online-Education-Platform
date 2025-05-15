@@ -18,7 +18,7 @@
             <td><b>🔔 Open PRs</b></td>
             <td><b>🔕 Close PRs</b></td>
         </tr>
-     
+    <thread>
     <tbody>
          <tr>
             <td><img alt="Stars" src="https://img.shields.io/github/stars/Muskansahuincredible/StudyNotion-An-Online-Education-Platform?style=flat&logo=github"/></td>
